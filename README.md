@@ -1,10 +1,4 @@
-Matthew Di Micelli is a self-taught Frontend Web Developer with a strong work ethic and a lifelong passion for learning and technology.
-He used the open-source Odin Project curriculum to guide his learning from February 2021 to the present. Although Matthew is now 
-experienced in modern React, he made sure to emphasize learning the basics, which include a strong foundation in the three core web 
-languages: JS, HTML, and CSS. He is including older projects that were built without any frameworks in his portfolio to demonstrate 
-that he can do so. Matthew continues to work every day to refine his skills and is also becoming proficient in working with Node.JS, 
-with the goal of enhancing his knowledge of the full stack to the point where he is fluent in backend development. Before initiating 
-his web development studies, he worked as a Registered Nurse and held advanced certifications in his area.
+I’m a self-taught Front-End Web Developer with a strong work ethic and a lifelong passion for learning and technology. I coupled the open-source Odin Project web development curriculum with some techniques that I previously used to master the Spanish language when learning to code from February 2021 to the present. Although I’m now experienced in modern React, I made sure to put a major emphasis on learning the basics, which include a strong foundation in the three core web languages. I continue to work every day to refine my front-end skills and am also becoming proficient in working with Node.js, with the goal of enhancing my knowledge of the full stack to the point where I’m fluent in back-end development. Before studying web development, I was an experienced Registered Nurse holding several advanced certifications in my professional specialty.
 
 Check out my personal page **[here](https://mattdimicelli.github.io/me/)** for more information.  Thank you!
 
