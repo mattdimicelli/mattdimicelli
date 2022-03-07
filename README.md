@@ -1,4 +1,4 @@
-Please check out my portfolio website **[here](https://mattdimicelli.github.io/me/)** Thank you!
+Please check out my portfolio website **[here](https://mattdimicelli.github.io/me/)**.  Thank you!
 
 I’m a self-taught **Full Stack Web Developer**!  I coupled the open-source Odin Project web development curriculum with techniques that I previously used to master the Spanish language when learning to code from February 2021 to the present.  Although I’m now experienced with the MERN stack, I made sure to put a major emphasis on learning the basics first, which include a strong foundation in the three core web languages.  I continue to work every 
 day to refine my skills.
